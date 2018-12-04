@@ -35,6 +35,7 @@
   -webkit-animation: cray 6s infinite steps(50);
           animation: cray 6s infinite steps(50);
   display: inline-block;
+	margin: 200px;
 }
 @-webkit-keyframes cray {
   2% {
